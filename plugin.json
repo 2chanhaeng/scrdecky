@@ -1,0 +1,10 @@
+{
+  "name": "scrdecky",
+  "author": "ChanHaeng Lee",
+  "flags": ["root"],
+  "api_version": 1,
+  "publish": {
+    "tags": ["android", "scrcpy", "pip", "mirror", "phone"],
+    "description": "Watch your Android phone screen in a picture-in-picture overlay while you game."
+  }
+}
